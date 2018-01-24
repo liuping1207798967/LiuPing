@@ -1,0 +1,4312 @@
+fileFormatVersion: 2
+guid: 2f9512fb5f39881428e5552b30d13647
+timeCreated: 1505807972
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ui_char_menu_0
+    21300002: ui_char_menu_1
+    21300004: ui_char_menu_2
+    21300006: ui_char_menu_3
+    21300008: ui_char_menu_4
+    21300010: ui_char_menu_5
+    21300012: ui_char_menu_6
+    21300014: ui_char_menu_7
+    21300016: ui_char_menu_8
+    21300018: ui_char_menu_9
+    21300020: ui_char_menu_10
+    21300022: ui_char_menu_11
+    21300024: ui_char_menu_12
+    21300026: ui_char_menu_13
+    21300028: ui_char_menu_14
+    21300030: ui_char_menu_15
+    21300032: ui_char_menu_16
+    21300034: ui_char_menu_17
+    21300036: ui_char_menu_18
+    21300038: ui_char_menu_19
+    21300040: ui_char_menu_20
+    21300042: ui_char_menu_21
+    21300044: ui_char_menu_22
+    21300046: ui_char_menu_23
+    21300048: ui_char_menu_24
+    21300050: ui_char_menu_25
+    21300052: ui_char_menu_26
+    21300054: ui_char_menu_27
+    21300056: ui_char_menu_28
+    21300058: ui_char_menu_29
+    21300060: ui_char_menu_30
+    21300062: ui_char_menu_31
+    21300064: ui_char_menu_32
+    21300066: ui_char_menu_33
+    21300068: ui_char_menu_34
+    21300070: ui_char_menu_35
+    21300072: ui_char_menu_36
+    21300074: ui_char_menu_37
+    21300076: ui_char_menu_38
+    21300078: ui_char_menu_39
+    21300080: ui_char_menu_40
+    21300082: ui_char_menu_41
+    21300084: ui_char_menu_42
+    21300086: ui_char_menu_43
+    21300088: ui_char_menu_44
+    21300090: ui_char_menu_45
+    21300092: ui_char_menu_46
+    21300094: ui_char_menu_47
+    21300096: ui_char_menu_48
+    21300098: ui_char_menu_49
+    21300100: ui_char_menu_50
+    21300102: ui_char_menu_51
+    21300104: ui_char_menu_52
+    21300106: ui_char_menu_53
+    21300108: ui_char_menu_54
+    21300110: ui_char_menu_55
+    21300112: ui_char_menu_56
+    21300114: ui_char_menu_57
+    21300116: ui_char_menu_58
+    21300118: ui_char_menu_59
+    21300120: ui_char_menu_60
+    21300122: ui_char_menu_61
+    21300124: ui_char_menu_62
+    21300126: ui_char_menu_63
+    21300128: ui_char_menu_64
+    21300130: ui_char_menu_65
+    21300132: ui_char_menu_66
+    21300134: ui_char_menu_67
+    21300136: ui_char_menu_68
+    21300138: ui_char_menu_69
+    21300140: ui_char_menu_70
+    21300142: ui_char_menu_71
+    21300144: ui_char_menu_72
+    21300146: ui_char_menu_73
+    21300148: ui_char_menu_74
+    21300150: ui_char_menu_75
+    21300152: ui_char_menu_76
+    21300154: ui_char_menu_77
+    21300156: ui_char_menu_78
+    21300158: ui_char_menu_79
+    21300160: ui_char_menu_80
+    21300162: ui_char_menu_81
+    21300164: ui_char_menu_82
+    21300166: ui_char_menu_83
+    21300168: ui_char_menu_84
+    21300170: ui_char_menu_85
+    21300172: ui_char_menu_86
+    21300174: ui_char_menu_87
+    21300176: ui_char_menu_88
+    21300178: ui_char_menu_89
+    21300180: ui_char_menu_90
+    21300182: ui_char_menu_91
+    21300184: ui_char_menu_92
+    21300186: ui_char_menu_93
+    21300188: ui_char_menu_94
+    21300190: ui_char_menu_95
+    21300192: ui_char_menu_96
+    21300194: ui_char_menu_97
+    21300196: ui_char_menu_98
+    21300198: ui_char_menu_99
+    21300200: ui_char_menu_100
+    21300202: ui_char_menu_101
+    21300204: ui_char_menu_102
+    21300206: ui_char_menu_103
+    21300208: ui_char_menu_104
+    21300210: ui_char_menu_105
+    21300212: ui_char_menu_106
+    21300214: ui_char_menu_107
+    21300216: ui_char_menu_108
+    21300218: ui_char_menu_109
+    21300220: ui_char_menu_110
+    21300222: ui_char_menu_111
+    21300224: ui_char_menu_112
+    21300226: ui_char_menu_113
+    21300228: ui_char_menu_114
+    21300230: ui_char_menu_115
+    21300232: ui_char_menu_116
+    21300234: ui_char_menu_117
+    21300236: ui_char_menu_118
+    21300238: ui_char_menu_119
+    21300240: ui_char_menu_120
+    21300242: ui_char_menu_121
+    21300244: ui_char_menu_122
+    21300246: ui_char_menu_123
+    21300248: ui_char_menu_124
+    21300250: ui_char_menu_125
+    21300252: ui_char_menu_126
+    21300254: ui_char_menu_127
+    21300256: ui_char_menu_128
+    21300258: ui_char_menu_129
+    21300260: ui_char_menu_130
+    21300262: ui_char_menu_131
+    21300264: ui_char_menu_132
+    21300266: ui_char_menu_133
+    21300268: ui_char_menu_134
+    21300270: ui_char_menu_135
+    21300272: ui_char_menu_136
+    21300274: ui_char_menu_137
+    21300276: ui_char_menu_138
+    21300278: ui_char_menu_139
+    21300280: ui_char_menu_140
+    21300282: ui_char_menu_141
+    21300284: ui_char_menu_142
+    21300286: ui_char_menu_143
+    21300288: ui_char_menu_144
+    21300290: ui_char_menu_145
+    21300292: ui_char_menu_146
+    21300294: ui_char_menu_147
+    21300296: ui_char_menu_148
+    21300298: ui_char_menu_149
+    21300300: ui_char_menu_150
+    21300302: ui_char_menu_151
+    21300304: ui_char_menu_152
+    21300306: ui_char_menu_153
+    21300308: ui_char_menu_154
+    21300310: ui_char_menu_155
+    21300312: ui_char_menu_156
+    21300314: ui_char_menu_157
+    21300316: ui_char_menu_158
+    21300318: ui_char_menu_159
+    21300320: ui_char_menu_160
+    21300322: ui_char_menu_161
+    21300324: ui_char_menu_162
+    21300326: ui_char_menu_163
+    21300328: ui_char_menu_164
+    21300330: ui_char_menu_165
+    21300332: ui_char_menu_166
+    21300334: ui_char_menu_167
+    21300336: ui_char_menu_168
+    21300338: ui_char_menu_169
+    21300340: ui_char_menu_170
+    21300342: ui_char_menu_171
+    21300344: ui_char_menu_172
+    21300346: ui_char_menu_173
+    21300348: ui_char_menu_174
+    21300350: ui_char_menu_175
+    21300352: ui_char_menu_176
+    21300354: ui_char_menu_177
+    21300356: ui_char_menu_178
+    21300358: ui_char_menu_179
+    21300360: ui_char_menu_180
+    21300362: ui_char_menu_181
+    21300364: ui_char_menu_182
+    21300366: ui_char_menu_183
+    21300368: ui_char_menu_184
+    21300370: ui_char_menu_185
+    21300372: ui_char_menu_186
+    21300374: ui_char_menu_187
+    21300376: ui_char_menu_188
+    21300378: ui_char_menu_189
+    21300380: ui_char_menu_190
+    21300382: ui_char_menu_191
+    21300384: ui_char_menu_192
+    21300386: ui_char_menu_193
+    21300388: ui_char_menu_194
+    21300390: ui_char_menu_195
+    21300392: ui_char_menu_196
+    21300394: ui_char_menu_197
+    21300396: ui_char_menu_198
+    21300398: ui_char_menu_199
+    21300400: ui_char_menu_200
+    21300402: ui_char_menu_201
+    21300404: ui_char_menu_202
+    21300406: ui_char_menu_203
+    21300408: ui_char_menu_204
+    21300410: ui_char_menu_205
+    21300412: ui_char_menu_206
+    21300414: ui_char_menu_207
+    21300416: ui_char_menu_208
+    21300418: ui_char_menu_209
+    21300420: ui_char_menu_210
+    21300422: ui_char_menu_211
+    21300424: ui_char_menu_212
+    21300426: ui_char_menu_213
+    21300428: ui_char_menu_214
+    21300430: ui_char_menu_215
+    21300432: ui_char_menu_216
+    21300434: ui_char_menu_217
+    21300436: ui_char_menu_218
+    21300438: ui_char_menu_219
+    21300440: ui_char_menu_220
+    21300442: ui_char_menu_221
+    21300444: ui_char_menu_222
+    21300446: ui_char_menu_223
+    21300448: ui_char_menu_224
+    21300450: ui_char_menu_225
+    21300452: ui_char_menu_226
+    21300454: ui_char_menu_227
+    21300456: ui_char_menu_228
+    21300458: ui_char_menu_229
+    21300460: ui_char_menu_230
+    21300462: ui_char_menu_231
+    21300464: ui_char_menu_232
+    21300466: ui_char_menu_233
+    21300468: ui_char_menu_234
+    21300470: ui_char_menu_235
+    21300472: ui_char_menu_236
+    21300474: ui_char_menu_237
+    21300476: ui_char_menu_238
+    21300478: ui_char_menu_239
+    21300480: ui_char_menu_240
+    21300482: ui_char_menu_241
+    21300484: ui_char_menu_242
+    21300486: ui_char_menu_243
+    21300488: ui_char_menu_244
+    21300490: ui_char_menu_245
+    21300492: ui_char_menu_246
+    21300494: ui_char_menu_247
+    21300496: ui_char_menu_248
+    21300498: ui_char_menu_249
+    21300500: ui_char_menu_250
+    21300502: ui_char_menu_251
+    21300504: ui_char_menu_252
+    21300506: ui_char_menu_253
+    21300508: ui_char_menu_254
+    21300510: ui_char_menu_255
+    21300512: ui_char_menu_256
+    21300514: ui_char_menu_257
+    21300516: ui_char_menu_258
+    21300518: ui_char_menu_259
+    21300520: ui_char_menu_260
+    21300522: ui_char_menu_261
+    21300524: ui_char_menu_262
+    21300526: ui_char_menu_263
+    21300528: ui_char_menu_264
+    21300530: ui_char_menu_265
+    21300532: ui_char_menu_266
+    21300534: ui_char_menu_267
+    21300536: ui_char_menu_268
+    21300538: ui_char_menu_269
+    21300540: ui_char_menu_270
+    21300542: ui_char_menu_271
+    21300544: ui_char_menu_272
+    21300546: ui_char_menu_273
+    21300548: ui_char_menu_274
+    21300550: ui_char_menu_275
+    21300552: ui_char_menu_276
+    21300554: ui_char_menu_277
+    21300556: ui_char_menu_278
+    21300558: ui_char_menu_279
+    21300560: ui_char_menu_280
+    21300562: ui_char_menu_281
+    21300564: ui_char_menu_282
+    21300566: ui_char_menu_283
+    21300568: ui_char_menu_284
+    21300570: ui_char_menu_285
+    21300572: ui_char_menu_286
+    21300574: ui_char_menu_287
+    21300576: ui_char_menu_288
+    21300578: ui_char_menu_289
+    21300580: ui_char_menu_290
+    21300582: ui_char_menu_291
+    21300584: ui_char_menu_292
+    21300586: ui_char_menu_293
+    21300588: ui_char_menu_294
+    21300590: ui_char_menu_295
+    21300592: ui_char_menu_296
+    21300594: ui_char_menu_297
+    21300596: ui_char_menu_298
+    21300598: ui_char_menu_299
+    21300600: ui_char_menu_300
+    21300602: ui_char_menu_301
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_char_menu_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1777
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_1
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1557
+        width: 227
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1608
+        width: 236
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1729
+        width: 239
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_4
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1801
+        width: 305
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_5
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1930
+        width: 516
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_6
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2018
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_7
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1987
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_8
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1956
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_9
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1803
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_10
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1930
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_11
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1819
+        width: 446
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_12
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1804
+        width: 268
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_13
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1808
+        width: 162
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1463
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1738
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1737
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_17
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1578
+        width: 326
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_18
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1598
+        width: 272
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_19
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1556
+        width: 270
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1678
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1699
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_22
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1612
+        width: 208
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_23
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1699
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1667
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_25
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1581
+        width: 29
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1618
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1627
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1630
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1624
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1558
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1561
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1582
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_33
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1566
+        width: 209
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_34
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1582
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_35
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1573
+        width: 208
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_36
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1560
+        width: 242
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1567
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_38
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1559
+        width: 146
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_39
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1559
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_40
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1556
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_41
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1557
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_42
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1559
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_43
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1556
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_44
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1562
+        width: 284
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_45
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1557
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_46
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1558
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_47
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1562
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_48
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1558
+        width: 63
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1065
+        width: 197
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_50
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1136
+        width: 448
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_51
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1273
+        width: 240
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_52
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1468
+        width: 646
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_53
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1067
+        width: 100
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_54
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1466
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1036
+        width: 218
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1091
+        width: 92
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_57
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1211
+        width: 216
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_58
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1086
+        width: 137
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_59
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1258
+        width: 213
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_60
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1392
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_61
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1375
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_62
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1316
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_63
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1291
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_64
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1144
+        width: 223
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_65
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1257
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_66
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1261
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_67
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1207
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_68
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1179
+        width: 197
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_69
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1157
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_70
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1145
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_71
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1189
+        width: 174
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_72
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1204
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_73
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1123
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_74
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1144
+        width: 197
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_75
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1137
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_76
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1148
+        width: 133
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_77
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1148
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_78
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1137
+        width: 450
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_79
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1106
+        width: 284
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_80
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1035
+        width: 646
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_81
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1122
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_82
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1098
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_83
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1113
+        width: 217
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_84
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1070
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_85
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1098
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_86
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1089
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_87
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1089
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_88
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1089
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_89
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1089
+        width: 217
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_90
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1064
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_91
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1074
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_92
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1047
+        width: 314
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_93
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1036
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_94
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1056
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_95
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1065
+        width: 217
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_96
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1039
+        width: 154
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_97
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1036
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_98
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1040
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_99
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1050
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_100
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 952
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_101
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 957
+        width: 160
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_102
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1041
+        width: 217
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 599
+        width: 643
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_104
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 959
+        width: 398
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_105
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 997
+        width: 574
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_106
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 973
+        width: 164
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_107
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 956
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_108
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 959
+        width: 573
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_109
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 886
+        width: 557
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_110
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 812
+        width: 213
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_111
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 942
+        width: 162
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_112
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 942
+        width: 172
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_113
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 891
+        width: 202
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_114
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 896
+        width: 139
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_115
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 891
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_116
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 757
+        width: 287
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_117
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 894
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_118
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 817
+        width: 113
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_119
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 805
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_120
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 813
+        width: 470
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_121
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 804
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_122
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 802
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_123
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 802
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_124
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 802
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_125
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 822
+        width: 148
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_126
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 803
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_127
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 829
+        width: 258
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_128
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 803
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_129
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 803
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_130
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 805
+        width: 222
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_131
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 805
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_132
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 806
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_133
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 807
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_134
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 735
+        width: 418
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_135
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 740
+        width: 242
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_136
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 740
+        width: 178
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_137
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 745
+        width: 139
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_138
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 740
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_139
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 743
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_140
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 726
+        width: 157
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_141
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 698
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_142
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 716
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_143
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 728
+        width: 461
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_144
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 672
+        width: 646
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_145
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 680
+        width: 378
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_146
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 684
+        width: 302
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_147
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 635
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_148
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 675
+        width: 123
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_149
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 650
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_150
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 652
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_151
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 667
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_152
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 639
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_153
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 637
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_154
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 616
+        width: 409
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_155
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 634
+        width: 324
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_156
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 634
+        width: 225
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_157
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 635
+        width: 106
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_158
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 638
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_159
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 619
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_160
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 537
+        width: 132
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_161
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 558
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_162
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 575
+        width: 241
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_163
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 575
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_164
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 600
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_165
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 610
+        width: 514
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_166
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 500
+        width: 430
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_167
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 483
+        width: 237
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_168
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 542
+        width: 371
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_169
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 530
+        width: 148
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_170
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 542
+        width: 139
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_171
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 537
+        width: 120
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_172
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 543
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_173
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 457
+        width: 269
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_174
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 490
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_175
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 516
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 77
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 76
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_178
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 332
+        width: 191
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_179
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 483
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_180
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 483
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_181
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 484
+        width: 315
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_182
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 484
+        width: 132
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_183
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 484
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_184
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 488
+        width: 133
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_185
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 447
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_186
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 419
+        width: 175
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_187
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 478
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_188
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 447
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_189
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 375
+        width: 229
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_190
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 424
+        width: 332
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_191
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 444
+        width: 282
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_192
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 432
+        width: 126
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_193
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 301
+        width: 322
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_194
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 419
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_195
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 398
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_196
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 374
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_197
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 405
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_198
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 340
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_199
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 408
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_200
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 427
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_201
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 427
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_202
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 427
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_203
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 338
+        width: 206
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_204
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 332
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_205
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 316
+        width: 165
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_206
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 361
+        width: 202
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_207
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 366
+        width: 140
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_208
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 339
+        width: 197
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_209
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 364
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_210
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 345
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_211
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 360
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_212
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 340
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_213
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 363
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_214
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 265
+        width: 418
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_215
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 322
+        width: 314
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_216
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 266
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_217
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 279
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_218
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 305
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_219
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 270
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_220
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 241
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_221
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 280
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_222
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 280
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_223
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 287
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_224
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 256
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_225
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 300
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_226
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 265
+        width: 264
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_227
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 265
+        width: 174
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_228
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 275
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_229
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 244
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_230
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 240
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_231
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 231
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_232
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 276
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_233
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 195
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_234
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 200
+        width: 155
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_235
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 139
+        width: 212
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_236
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 204
+        width: 333
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_237
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 250
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_238
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 165
+        width: 237
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_239
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 241
+        width: 438
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_240
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 217
+        width: 294
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_241
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 148
+        width: 252
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_242
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 156
+        width: 122
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_243
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 182
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_244
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 182
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_245
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 143
+        width: 245
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_246
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 192
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_247
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 152
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_248
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 151
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_249
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 176
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_250
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 183
+        width: 214
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_251
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 162
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_252
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 140
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_253
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 123
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_254
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 97
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_255
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 120
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_256
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 153
+        width: 214
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_257
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 106
+        width: 123
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_258
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 81
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_259
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 82
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_260
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 98
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_261
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 124
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_262
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 77
+        width: 241
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_263
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 49
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_264
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 70
+        width: 112
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_265
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 77
+        width: 118
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_266
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 93
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_267
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 32
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_268
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 111
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_269
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 115
+        width: 261
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_270
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_271
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 94
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_272
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 40
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_273
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 19
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_274
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 85
+        width: 261
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_275
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 64
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_276
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 57
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_277
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 57
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_278
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 56
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_279
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 58
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_280
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 58
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_281
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 60
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_282
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 60
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_283
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 58
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_284
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 8
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_285
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 19
+        width: 123
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_286
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 22
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_287
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 7
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_288
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 22
+        width: 160
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_289
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 22
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_290
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 55
+        width: 261
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_291
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 7
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_292
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 446
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_293
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 24
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_294
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 24
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_295
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 24
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_296
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_297
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_298
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_299
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_300
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ui_char_menu_301
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 578
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
